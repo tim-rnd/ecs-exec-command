@@ -1,0 +1,9 @@
+export AWS_REGION=us-west-2
+export VPC_ID=vpc-0a60519fa3e82cafd
+export PUBLIC_SUBNET1=subnet-0289e8562c95a0480
+export PUBLIC_SUBNET2=subnet-00dad856ad1e4bb71
+export ECS_EXEC_BUCKET_NAME=timy-rnd.ecs-exec
+export ECS_EXEC_DEMO_SG_ID=sg-0917e4e02cc23be15
+The KMS Key ARN is: arn:aws:kms:us-west-2:479788010133:key/dd2417ae-3b3f-4778-8c44-8279fae7c87a
+
+Task ARN: arn:aws:ecs:us-west-2:479788010133:task/ecs-exec-demo-cluster/16c7adacf8374737a6c892293b61cf13
